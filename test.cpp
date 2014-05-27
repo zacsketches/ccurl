@@ -1,6 +1,6 @@
 
 
-#include "curl.hh"
+#include "curl.h"
 
 #include <iostream>
 

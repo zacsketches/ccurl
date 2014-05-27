@@ -2,7 +2,7 @@
 //
 // by Georg Sauthoff <mail@georg.so>, 2012, GPLv3+
 
-#include "curl.hh"
+#include "curl.h"
 
 #include <string.h>
 
