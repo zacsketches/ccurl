@@ -2,8 +2,8 @@
 //
 // by Georg Sauthoff <mail@georg.so>, 2012, GPLv3+
 
-#ifndef CURL_HH
-#define CURL_HH
+#ifndef CURL_H
+#define CURL_H
 
 #include <curl/curl.h>
 
